@@ -49,6 +49,8 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/DuaneSEvans)
 
+_Long gaps in commits may indicate prolonged bicycle trips with friends 😎_
+
 ## What I'm Doing
 
 - Building software for the synchronous learning platform at [synthesis teams](https://www.synthesis.com/teams)

@@ -39,7 +39,7 @@
   platform for fans of the professional women's hockey league.
 - 🍳 **[Slamsgiving](https://www.slamsgiving.com/)** - event site for the
   greatest joke party of our time.
-- 🏒 **[3-2-1 NHL](https://321nhl.com/)** - always current NHL standing reimagined in a 3-2-1-0 points league
+- 🏒 **[3-2-1 NHL](https://321nhl.com/)** - reimagined NHL standings in a 3-2-1-0 points system
 - 🧠 **[Life Long Learning Model](https://github.com/DuaneSEvans/Life-Long-Learning-Model)** - an ai-powered cli that helps you study, quiz yourself, and retain what you learn.
 - 🗂️ **[BFRB Directory](https://bfrbdirectory.com/)** - a directory project focused on bfrb-related resources and discovery.
 - 🧤 **[Fidget Podcast](https://fidgetpodcast.com/)** - my first website and

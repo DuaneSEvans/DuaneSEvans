@@ -57,7 +57,7 @@ _Long gaps in commits may indicate prolonged bicycle trips with friends 😎_
 - Building agentic AI tools for the asynchronous learning platform at [synthesis tutor](https://www.synthesis.com/tutor)
 - Deepening my craft of typescript, golang, databases and
   distributed systems
-- Unplugging by experiencing wonderful places [by bicycle](https://duane.dev/bicycle-trips/japan)
+- Unplugging by visiting nice places [by bicycle](https://duane.dev/bicycle-trips/japan)
 
 ## Connect
 

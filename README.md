@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-> Building delightful websites that bring community together and always sharpening my craft.
+> Building things for community and always sharpening my craft
 
 ## Some personal projects
 

@@ -1,6 +1,6 @@
 # Hi, I'm Duane 👋
 
-📍 Vancouver, Canada | 💻 Full Stack Engineer @ [Synthesis](https://www.synthesis.com/teams) | 🚲 Coding, Learning, Biking
+📍 Vancouver, Canada | 💻 Full Stack Engineer @ [Breakout Learning](https://www.breakoutlearning.com/) | 🚲 Coding, Learning, Biking
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -53,7 +53,7 @@ _Long gaps in commits may indicate prolonged bicycle trips with friends 😎_
 
 ## What I'm Doing
 
-- Building software for the synchronous learning platform at [synthesis teams](https://www.synthesis.com/teams)
+- Building software for the synchronous learning platform at [Breakout Learning](https://www.breakoutlearning.com/)
 - Building agentic AI tools for the asynchronous learning platform at [synthesis tutor](https://www.synthesis.com/tutor)
 - Deepening my craft of typescript, golang, databases and
   distributed systems

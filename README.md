@@ -54,7 +54,7 @@ _Long gaps in commits may indicate prolonged bicycle trips with friends 😎_
 ## What I'm Doing
 
 - Building software for the synchronous learning platform at [Breakout Learning](https://www.breakoutlearning.com/)
-- Building agentic AI tools for the asynchronous learning platform at [synthesis tutor](https://www.synthesis.com/tutor)
+- Building a free [fantasy hockey site](https://www.fantasticpwhl.com/) for the PWHL
 - Deepening my craft of typescript, golang, databases and
   distributed systems
 - Unplugging by visiting nice places [by bicycle](https://duane.dev/bicycle-trips/japan)
